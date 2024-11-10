@@ -1,5 +1,5 @@
 PBL-1
-
+-----
 The traditional method for sleep apnea diagnosis is a polysomnography (PSG) , or overnight sleep study, that is often conducted in a  hospital environment . 
 This procedure can face a number of challenges:
 Expensive: Since polysomnography requires specialist equipment and trained technicians, it is costly for patients as well as healthcare providers.
